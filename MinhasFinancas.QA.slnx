@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MinhasFinancas.IntegrationTests/MinhasFinancas.IntegrationTests.csproj" />
+  <Project Path="MinhasFinancas.UnitTests/MinhasFinancas.UnitTests.csproj" />
+</Solution>
